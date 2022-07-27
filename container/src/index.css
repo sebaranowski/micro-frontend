@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 4px dotted blue;
+}
+
+.container {
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
+
+h1 {
+  color: blue;
+}
